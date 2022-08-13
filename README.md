@@ -30,7 +30,7 @@ Components:
 
 ### Back
 
-<img src="/../main/photo/powerboard-front.jpeg" width="450px">
+<img src="/../main/photo/powerboard-back.jpeg" width="450px">
 
 Components:
 - ADE7953 / ACPZ / #2131 / 54601581
